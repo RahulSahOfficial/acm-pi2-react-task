@@ -1,0 +1,13 @@
+.resortContainer {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  background: #ececec;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: repeating-radial-gradient(circle, #ececec, transparent 20%);
+  background-size: 2em 2em;
+  background-color: #ffffff;
+  opacity: 1;
+}

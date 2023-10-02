@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@400;500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+h1.heading {
+  font-family: "Anton", sans-serif;
+  background: #ff5254;
+  padding: 3rem 1rem;
+  text-align: center;
+  color: white;
+  font-size: 2.5rem;
+  letter-spacing: 3px;
+  font-weight: 400;
+  text-transform: uppercase;
+  word-spacing: 8px;
+  background-image: radial-gradient(#ffa9aa 2px, transparent 2px);
+  background-size: 32px 32px;
+}
